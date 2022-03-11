@@ -4,3 +4,8 @@ server:
 spring:
   application:
     name: auth-server
+  datasource:
+    url: <url>
+    username: <username>
+    password: <password> 
+
